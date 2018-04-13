@@ -1,7 +1,7 @@
 {
   "name": "gulp.spritesmith.x3",
   "description": "Convert a set of images into a spritesheet and CSS variables via gulp, support @3x",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "homepage": "https://github.com/aslinwang/gulp.spritesmith.x3",
   "repository": {
     "type": "git",
@@ -26,7 +26,7 @@
     "gulp-util": "~3.0.8",
     "minimatch": "~3.0.3",
     "spritesheet-templates-x3": "~1.0.1",
-    "spritesmith": "~3.1.0",
+    "spritesmith": "~3.3.0",
     "through2": "~2.0.3",
     "underscore": "~1.8.3",
     "url2": "~1.0.4"
